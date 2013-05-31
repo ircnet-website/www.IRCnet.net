@@ -62,7 +62,7 @@ copyright: 2013 by ente for www.IRCnet.net. All rights reserved.
 * A: Maintainership for the IRC server codebase has changed a few times over
   the decades, a full list of the authors and contributors is available [as part
   of the code base][ircd_authors]. ircd is currently maintained by [Piotr
-  "Beeth" Kucharski][Beeth] for the 2.11 release series.
+  "Beeth" Kucharski][Beeth] since the 2.11 release series.
 
 * Q: Who made this site?
 * A: The website was created by ente using [jekyll][jekyll].
