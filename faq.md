@@ -37,7 +37,7 @@ copyright: 2013 by ente for www.IRCnet.net. All rights reserved.
   loses all ops.
 
 * Q: Why is this page semi-official?
-* A: IRCnet - unlike some other networks - has no centrally organised steering
+* A: IRCnet -- unlike some other networks -- has no centrally organised steering
   committee. This means there exists no such thing like an official
   representation of the network as a whole, and any site claiming to be such a
   resource would be blatantly lying to you. However, some servers operate a
