@@ -1,40 +1,39 @@
 body {
   font: 16px/1.5 verdana, helvetica-neue, helvetica, arial, san-serif;
-  background: black;
-  color: #ececec;
+  background: white;
+  color: black;
   padding: 0;
   margin: 0;
-}
-ul {
-  margin: 0;
-  padding: 0;
 }
 a {
-  color: #ccc;
+  color: #55f;
   text-decoration: none;
 }
  
 a:hover {
-  color: #ececec;
-  text-decoration: underline;
+  color: #77f;
+  //text-decoration: underline;
 }
  
 #main {
-  width: 960px;
+  width: 80ex;
   margin: 0 auto;
-  background: rgba(255, 255, 255, 0.4);
 }
 header {
   padding: 0 10px;
   overflow: hidden;
 }
+
 h1 {
   margin: 0;
 }
  
 nav ul, ul.entries {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
+
 nav li a {
   float: left;
   margin: 5px;
@@ -72,23 +71,21 @@ footer {
   font-size: 0.65em;
   text-align: center;
 }
-
 .newspost {
 	display: block;
 	padding-top: 2em;
 }
 
 .timestamp {
-	font-family: Monospace;
+	font-family: sans-serif;
 }
 
 .post {
 	border: 1px dashed darkblue;
-	background: lightgray;
+	background: #eee;
 	margin: 5px;
 	padding-left: 2em;
 	padding-right: 2em;
-	color: black;
 }
 
 nav {
