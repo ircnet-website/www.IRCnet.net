@@ -102,7 +102,7 @@ what the name of the new channel is.
 
 Example: `#blah` has been taken over. So you create `#blah2` and place a user with
 the nick "`blah`" on it. And now, if someone comes on IRC and sees that #blah is
-not usable, he just does "``/WHOIS blah`" and sees that "`blah`" is on `#blah2`.
+not usable, he just does "`/WHOIS blah`" and sees that "`blah`" is on `#blah2`.
 Therefore he knows now that `#blah2` is the temporary replacement for `#blah`.
 
 
