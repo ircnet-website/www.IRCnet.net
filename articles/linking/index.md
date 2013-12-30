@@ -16,9 +16,9 @@ them, if you want to be sure what those exact requirements are. However we are
 not providing any contact information within this document apart from IRCnet.net
 owns.
 
-By submitting your application to ircd@ircnet.net you agree, that it will be
-review by in depended support staff of IRCnet.net and if deemed appropriate it
-will be forwarded to responsible body of IRCnet for further consideration.
+By submitting your application to us you agree, that it will be review by in
+depended support staff of IRCnet.net and if deemed appropriate it will be
+forwarded to responsible body of IRCnet for further consideration.
 
 -----
 
@@ -90,10 +90,8 @@ ask them, if they would like to support an IRCnet server.
 
 Still feeling lucky?
 
-Please e-mail: ircd@ircnet.net
+Feel free to join `#eu-opers` and ask for more information.
 See disclaimer for rules.
-
-Feel free to join `#ircnet` and ask for more information.
 
 	************** PLEASE NOTE ****************
 	Original text by: viha
