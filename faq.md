@@ -10,6 +10,11 @@ copyright: 2013 by ente for www.IRCnet.net. All rights reserved.
   network consists of multiple servers that are linked together. People connect
   to the network by picking and connecting to one of these servers.
 
+* Q: How do I find a channel for a topic I am interested in?
+* A: The old solution to this is the `/LIST` command, which lists all channels
+  on the network without any filtering. A new approach is the 
+  [Alis service](../articles/alis) which filters for specific criteria.
+
 * Q: What is IRCnet?
 * A: In the beginning of IRC history, there was only one network. Since IRC is
   an open standard, and the [server software][ircd] it uses is available under
@@ -34,7 +39,7 @@ copyright: 2013 by ente for www.IRCnet.net. All rights reserved.
   one. If you want to prevent channel takeovers, use `!channels` or mark one of
   your trustworthy channel operators with the reop-mode `/mode +R <channel>
   *!<ident>@<hostmask>` such that ircd can re-op them as soon as your channel
-  loses all ops.
+  loses all ops. For more information, see [the article on reop](../articles/reop).
 
 * Q: Why is this page semi-official?
 * A: IRCnet -- unlike some other networks -- has no centrally organised steering
