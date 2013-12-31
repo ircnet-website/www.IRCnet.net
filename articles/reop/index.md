@@ -1,6 +1,7 @@
 ---
 title: reop mode
 layout: default
+copyright: 2013 by ente for www.IRCnet.net. All rights reserved.
 ---
 The so-called Reop-Mode can be set on any channel type that accepts modes (i.e.
 `!channels`, `#channels` and `&channels`, but not `+channels`). It takes a
@@ -8,6 +9,10 @@ parameter containing a hostmask that you want to be reopped in case the channel
 becomes op-less. After a channel becomes op-less, a server will look at the reop
 list, match all hostmasks on the channel against the reop list and then reop a
 random one matching one of hostmasks on the reop list.
+
+**Note**: This channel mode is currently not mentioned in any of the IRCnet
+specific RFCs. This also means that the RFCs as published by the IETF are
+outdated information at this point.
 
 ### Obtaining the reop list for a channel
 
@@ -62,7 +67,3 @@ continue to be supported until at least ircd2.12 is released, but it's
 recommended to use `+R` instead. The restriction of `+r` only supporting only
 `!channels` was completely arbitrary to begin with so it's a good thing that
 this is no longer an issue.
-
-**Note**: This channel mode is currently not mentioned in any of the IRCnet
-specific RFCs. This also means that the RFCs as published by the IETF are
-outdated information at this point.
