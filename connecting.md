@@ -30,7 +30,7 @@ semi-official page).
 
 Try a different port. The open servers listen on Port 6660-6669. Chances are
 that your Internet Service Provider is blocking port 6667. If this isn't enough
-and it just keeps not working, you can connect to `ircnet.choopa.net` on port
+and it just keeps not working, you can connect to `irc.portlane.se` on port
 8080. This port will generally be open even with the most stupid ISPs because
 it is a common alternative port for HTTP (which is all the internet consists of
 these days).
@@ -41,7 +41,7 @@ You can use the `!servers` command in the channel `#ircnet` to get a list of all
 servers you can access using the IP address you're currently using. Since your
 IP is used as your ident on the web chat, this also works using the web clients.
 
-Example output using a German IP:
+Example output (probably outdated) using a German IP:
 
     * You are talking on #ircnet
     <ente> !servers
