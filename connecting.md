@@ -12,7 +12,16 @@ title: Connecting to IRCnet
 * If all else fails (and for instance all local servers keep rejecting your
   connection attempts), there are currently 5 servers allowing connections from
   all around the world. These servers are called open servers and can be
-  accessed by connecting to `open.ircnet.net`
+  accessed by connecting to `open.ircnet.net`. Alternatively, there's also 
+  `eu.ircnet.net` and `us.ircnet.net` containing only the European or American
+  open servers. Use these addresses if you want to avoid your connection
+  needlessly crossing the pond.
+* There is also an open access SSL server. The address is
+  `ssl.irc.atw-inter.net` on port 6697. We are currently working to encrypt
+  larger parts of IRCnet using SSL. This is work in progress.
+  Please note that SSL is not reliable end-to-end-encryption, so be advised to
+  use an OTR plugin for your IRC client instead, if you're worried about your
+  privacy.
 
 The order of preference is of course up to you, but it's generally best to
 choose local wildcard records over specifying two or more local servers over
