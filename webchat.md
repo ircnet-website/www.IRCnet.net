@@ -9,7 +9,7 @@ Most people still prefer a client that is not web-based because they work more
 reliably and -- unlike the web interfaces -- can be configured to better fit the
 user's needs.
 
-There are two different Web-based solutions for web-based IRC access; qwebirc is
+There are two different solutions for web-based IRC access; qwebirc is
 the more modern one. Both will require javascript to be enabled in your browser
 and should work with any halfway modern browser.
 
