@@ -10,8 +10,8 @@ reliably and -- unlike the web interfaces -- can be configured to better fit the
 user's needs.
 
 There are two different Web-based solutions for web-based IRC access; qwebirc is
-more modern one. Both will require javascript to be enabled in your browser and
-should work with any halfway modern browser.
+the more modern one. Both will require javascript to be enabled in your browser
+and should work with any halfway modern browser.
 
 * [qwebirc hosted by ente](http://webchat.ircnet.net/)
 * [CGI:IRC hosted by tu-ilmenau.de](http://sandbox.fem.tu-ilmenau.de/cgi-bin/cgiirc/irc.cgi)
@@ -22,3 +22,5 @@ local users from the same country the corresponding server is located in:
 
 * [Estonian CGI:IRC](http://chat.ircnet.ee/)
 * [Italian JavaIRC hosted by Tiscali](http://chat.tiscali.it/)
+
+Several third-party providers also provide web based IRC access.
