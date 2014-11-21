@@ -16,9 +16,12 @@ You ask, why can you not access our IRC-server (K/+r). The answers are very like
     and ask him to enable it. There are no reasons not to. Only reasons *to* do
     it.
     Having a working DNS also points out that: 
+
     1. Your hostname was intended for actual usage and it's not just somebody
        taking advantage of an unused IP to abuse it.
+
     1. Your ISP cares (and might even handle some of the abuse).
+
     1. Your ISP is competent. If it doesn't even know how to run a DNS-server,
        which is one of the most basic services on the Net, it has no business
        accessing our services, either.
@@ -55,9 +58,12 @@ You ask, why can you not access our IRC-server (K/+r). The answers are very like
    This is the case with most user-created ones.
    On the other hand, if it has a huge load of bots, the people taking it over
    will:
+
    1. Think it's big and thus ''worth'' taking over.
+
    1. There is a challenge. They want to fight with your army of 50 bots. It's
       just about the same as provocating them.
+
    1. You SHOULD keep your bots off botnets.
 
    Botnets on IRC do not serve a direct purpose. In the end, you will see you

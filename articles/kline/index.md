@@ -4,7 +4,7 @@ title: KLINE reasons or "IRCOP KLINE ME FOR NOTHING!!!"
 ---
 
 ### IRCOP KLINE ME FOR NOTHING!!!
-#### or 13:27:34 stebs: you usually don't have to pay for a K:line ;)
+### or 13:27:34 stebs: you usually don't have to pay for a K:line ;)
 
 In the latest time many people are asking/complaining/arguing
 with words similar as those from the title.

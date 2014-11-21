@@ -22,7 +22,7 @@ forwarded to responsible body of IRCnet for further consideration.
 
 -----
 
-Guidelines:
+### Guidelines
 
 1. The IRC server must be permitted and supported by administration of the
    machine and network it is on.
