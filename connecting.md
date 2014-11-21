@@ -42,7 +42,19 @@ that your Internet Service Provider is blocking port 6667. If this isn't enough
 and it just keeps not working, you can connect to `irc.portlane.se` on port
 8080. This port will generally be open even with the most stupid ISPs because
 it is a common alternative port for HTTP (which is all the internet consists of
-these days).
+these days). If all else fails, you can still use one of the [webchats](/webchat).
+
+### I'm having trouble staying connected to IRC from my mobile device
+
+IRC is based on TCP and sessions are bound to a single TCP connection with no
+way to "reopen" a session after the connection has been lost, e.g. because your
+mobile device switched from a Wifi network to a 3G network or you ping
+timeouted because you were driving through a tunnel. There are services to
+mitigate this, most of them work by keeping you permanently connected (like a
+[bouncer][BNC]), but unlike a bouncer they expose the IRC session over a Web
+API, which is more robust to sudden connection loss compared to IRC. One example
+for software like this would be [IRCAnywhere][ircanywhere] but there's also
+paid services offering similar features.
 
 ### Where can I get a list of all servers I have access to?
 
@@ -61,3 +73,5 @@ Example output (probably outdated) using a German IP:
 
 
 [all servers]: http://irc.tu-ilmenau.de/all_servers/
+[BNC]: https://en.wikipedia.org/wiki/BNC_%28software%29
+[ircanywhere]: http://ircanywhere.com/
